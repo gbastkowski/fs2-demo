@@ -1,1 +1,3 @@
 target/
+.vscode/
+/project/project/metals.sbt
