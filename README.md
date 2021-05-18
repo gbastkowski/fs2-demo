@@ -11,5 +11,5 @@ Here we show how to set up collaboration with IntelliJ IDEA.
 * Install IntelliJ with Floobits plugin
 * Import this project into IntelliJ
 * Open a floobits workspace
-  <kbd>Tools → Floobits → Join Workspace by URL</kbd>   
+  <kbd>Tools → Floobits → Join Project's Workspace</kbd>   
   Use the following URL: *https://floobits.com/gbastkowski/fs2-demo*
