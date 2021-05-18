@@ -11,5 +11,8 @@ scalacOptions  ++=  Seq(
 
 ThisBuild / libraryDependencies  ++=  Seq(
   "co.fs2" %% "fs2-core" % "2.5.3",
+  "io.circe" %% "circe-core" % "0.12.3",
+  "io.circe" %% "circe-generic" % "0.12.3",
+  "io.circe" %% "circe-parser" % "0.12.3",
   "org.scalatest"  %% "scalatest" % "3.2.7" % Test
 )

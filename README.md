@@ -1,5 +1,7 @@
 # fs2-demo
 
+Tested on OpenJDK 11
+
 ## Setting up Floobits
 * Create a [Floobits](https://floobits.com/) account
 * Create [`~/.floorc`](https://floobits.com/help/floorc) file
@@ -13,3 +15,4 @@ Here we show how to set up collaboration with IntelliJ IDEA.
 * Open a floobits workspace
   <kbd>Tools → Floobits → Join Project's Workspace</kbd>   
   Use the following URL: *https://floobits.com/gbastkowski/fs2-demo*
+  
